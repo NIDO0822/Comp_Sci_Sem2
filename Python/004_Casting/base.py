@@ -1,0 +1,6 @@
+x = int(2)
+y = int(4)
+z = int(8)
+print("first number is " + str(x) + " lol ")
+print("second number is " + str(y) + " lol")
+print("the answer is " + str(z)+ " lol")
